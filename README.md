@@ -21,3 +21,4 @@ Finally we added axios for APIs
 *   [yarn add uuid](https://www.npmjs.com/package/uuid "Link to the UUID documentation")
 
 Once dependencies are installed to run the application use `Yarn dev`to start both the client sever and the develompment server.This command works because of a custom script in our package.json file. To run the client server on its own use `Yarn run` and for the development server use `Node Server` and to keep the develompment server running during code changes use `nodemon server`this commands are run in a console that currently in the application folder
+# Furever
